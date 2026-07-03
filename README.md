@@ -5,9 +5,11 @@ Andhika Wahyu Novianto Hidayat
 Kelas B
 
 ====== SmartSort ======
+
 Aplikasi Android untuk mengklasifikasikan kategori sampah melalui foto menggunakan Google Gemini AI.
 
 ====== Tentang Aplikasi ======
+
 SmartSort membantu pengguna mengenali jenis sampah hanya dengan memotret objek tersebut. Sistem akan secara otomatis mengidentifikasi kategori sampah beserta informasi lengkapnya menggunakan AI dari Google Gemini API.
 
 ====== Fitur ======
