@@ -35,12 +35,10 @@ import com.example.smartsort.db.ScanHistory;
 import java.util.List;
 import java.util.concurrent.Executors;
 
-import com.example.smartsort.BuildConfig;
-
 public class MainActivity extends AppCompatActivity {
 
     // API AI GEMINI
-    private static final String API_KEY = BuildConfig.GEMINI_API_KEY;
+    private static final String API_KEY = "API_KEY_AI";
 
     private ActivityResultLauncher<Void> cameraLauncher;
     private ProgressDialog progressDialog;

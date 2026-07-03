@@ -17,7 +17,9 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/logo_aplikasi"
         android:supportsRtl="true"
-        android:theme="@style/Theme.SmartSort">
+        android:theme="@style/Theme.SmartSort"
+        android:forceDarkAllowed="false">
+
         <activity
             android:name=".BeritaDetailActivity"
             android:exported="false" />
